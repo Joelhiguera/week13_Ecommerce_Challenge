@@ -9,7 +9,9 @@ SO THAT my company can compete with other e-commerce companies
 ## Installation
 Please run an npm i to install all of the required moduels in the package json.
 
-Also please create a .env file and enter your mysql credentials to access the database.
+Please create a .env file and enter your mysql credentials to access the database. 
+
+**Please refer to the .envEXAMPLE file for reference**
 
 ## Links
 
