@@ -6,7 +6,7 @@ const { Category, Product } = require('../../models');
 router.get('/', async (req, res) => {
   try {
     // find all categories
-    const categoryData = await Category.beforeFindAfterExpandIncludeAll({
+    const categoryData = await Category.findAll({
       // be sure to include its associated Products
       include: [{ model: Product}],
     });
@@ -18,7 +18,10 @@ router.get('/', async (req, res) => {
   
 });
 
-router.get('/:id', (req, res) => {
+router.get('/:id', async (req, res) => {
+  try {
+    const categoryData = await 
+  }
   // find one category by its `id` value
   // be sure to include its associated Products
 });
