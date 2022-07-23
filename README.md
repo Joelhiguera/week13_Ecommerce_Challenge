@@ -17,5 +17,5 @@ Please create a .env file and enter your mysql credentials to access the databas
 
 Github Repository link: https://github.com/Joelhiguera/week13_Ecommerce_Challenge
 
-Video Tutorial Link: https://drive.google.com/file/d/1vnd36hH8kA2JRyFV4kWeN6VnUXdFGulf/view
+Video Tutorial Link: https://drive.google.com/file/d/14vjbUv746r5vlTKfipEbwzdgqXLGb0ta/view
 
